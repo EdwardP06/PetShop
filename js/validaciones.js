@@ -50,7 +50,7 @@ const mensajesDeError = {
     estado: {
         valueMissing: "El campo estado no puede estar vacío",
         patternMismatch: "El estado debe contener entre 10 y 40 carácteres",
-    }
+    },
 };
 
 const validadores = {
